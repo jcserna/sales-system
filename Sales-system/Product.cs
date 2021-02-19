@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Sales_system
 {
-    class SalesMan
+    class Product
     {
         public string Name;
-        public int Age;
+        public double Price;
     }
 }
